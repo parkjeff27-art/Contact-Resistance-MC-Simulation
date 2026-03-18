@@ -32,3 +32,5 @@ This simulation accompanies experimental work comparing **TLCD** (Top-Lead Conta
 ## Author
 
 **Junsu Park** - Department of Physics and Photon Science, GIST
+
+> **Associated Paper**: [Contact Area Effect on Graphene-Metal Contact Resistance](https://link.springer.com/article/10.1007/s40042-026-01579-8) — *Journal of the Korean Physical Society* (2026)
